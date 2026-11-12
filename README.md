@@ -14,9 +14,9 @@ I'm interested in **agentic AI**, **backend** development and **low-level C/C++*
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ## Featured projects
-- **ft_transcendence (Klass)** — team multi-tenant LMS (TypeScript, NestJS, PostgreSQL, Prisma, Docker, Grafana) · delivered 3 Nov 2026 · private team repo
+- **[ft_transcendence (Klass)](https://github.com/Klass42/ft_trascendence)** — team multi-tenant LMS (TypeScript, NestJS, PostgreSQL, Prisma, Docker, Grafana) · delivered 3 Nov 2026
 - **call_me_maybe** — natural-language prompts to JSON function calls with constrained decoding (Python) · in progress · private
-- **trading-lab** — rule-based strategy backtesting and paper trading (Python) · paused · private
+- **[trading-lab](https://github.com/SrJorgeG/trading-lab)** — rule-based strategy backtesting and paper trading (Python) · paused
 - **[clipping](https://github.com/SrJorgeG/clipping)** — automated clipping pipeline: capture → detector → 9:16 editor → local queue, orchestrated with N8N
 - **[Webserv](https://github.com/SrJorgeG/Webserv)** — HTTP/1.1 server in C++98 with epoll, CGI and nginx-style config
 - **[miniRT](https://github.com/SrJorgeG/miniRT)** — ray tracer in C (spheres, planes, cylinders, cones, lighting, shadows)
