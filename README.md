@@ -1,6 +1,6 @@
 # Hi, I'm Jorge 👋
 
-Software engineering student at **42 Madrid** — Common Core **Transcender**, level **11**, ranked **42 / 390**, **30** projects completed ([42cv](https://42cv.dev/jgomez-d)). Previously studied Computer Engineering at **UPM**.
+Software engineering student at **42 Madrid** — Outer Core **Transcender**, level **11**, ranked **42 / 390**, **30** projects completed ([42cv](https://42cv.dev/jgomez-d)). Previously studied Computer Engineering at **UPM**.
 
 I'm interested in **agentic AI**, **backend** development and **low-level C/C++**. Based in Madrid and **open to junior roles**.
 
