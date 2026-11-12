@@ -1,6 +1,6 @@
 # Hi, I'm Jorge 👋
 
-Software engineering student at **42 Madrid** (finishing Nov 2026) — ranked **38 / 390**, level 9, 28 projects completed. Previously studied Computer Engineering at **UPM**.
+Software engineering student at **42 Madrid** — Common Core **Transcender**, level **11**, ranked **42 / 390**, **30** projects completed ([42cv](https://42cv.dev/jgomez-d)). Previously studied Computer Engineering at **UPM**.
 
 I'm interested in **agentic AI**, **backend** development and **low-level C/C++**. Based in Madrid and **open to junior roles**.
 
@@ -14,11 +14,15 @@ I'm interested in **agentic AI**, **backend** development and **low-level C/C++*
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
 ## Featured projects
-- **ft_transcendence** — team full-stack learning platform (TypeScript, PostgreSQL, Prisma, Docker, Grafana monitoring) · private team repo
+- **ft_transcendence (Klass)** — team multi-tenant LMS (TypeScript, NestJS, PostgreSQL, Prisma, Docker, Grafana) · delivered 3 Nov 2026 · private team repo
+- **call_me_maybe** — natural-language prompts to JSON function calls with constrained decoding (Python) · in progress · private
+- **trading-lab** — rule-based strategy backtesting and paper trading (Python) · paused · private
+- **[clipping](https://github.com/SrJorgeG/clipping)** — automated clipping pipeline: capture → detector → 9:16 editor → local queue, orchestrated with N8N
 - **[Webserv](https://github.com/SrJorgeG/Webserv)** — HTTP/1.1 server in C++98 with epoll, CGI and nginx-style config
 - **[miniRT](https://github.com/SrJorgeG/miniRT)** — ray tracer in C (spheres, planes, cylinders, cones, lighting, shadows)
 - **[minishell](https://github.com/SrJorgeG/42_PROYECTS/tree/main/minishell)** — bash-like shell in C
 - **[inception](https://github.com/SrJorgeG/inception)** — Docker Compose stack: NGINX + WordPress + MariaDB
+- **[cpp](https://github.com/SrJorgeG/cpp)** — 42 C++ modules (cpp00–cpp09): Orthodox Canonical Form, polymorphism, templates, STL
 - **[philosophers](https://github.com/SrJorgeG/philosophers)** — dining philosophers with pthreads and mutexes
 - **[push_swap](https://github.com/SrJorgeG/push_swap)** — two-stack sorting algorithm optimised for minimal moves
 
